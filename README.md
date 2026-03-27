@@ -41,10 +41,10 @@
 const pranav = {
   name:       "Pranav Durge",
   username:   "Pranav-Labs07",
-  role:       "Full-Stack Developer",
+  role:       "Full-Stack Developer" | "Software developer",
   location:   "India 🇮🇳",
   passion:    ["Building scalable web apps", "Clean APIs", "Real-time systems"],
-  currentFocus: "MERN Stack Development & real-time applications",
+  currentFocus: "MERN Stack Development & real-time applications","Learning DevOps & AWS",
   goal:       "Craft impactful software that solves real-world problems",
   funFact:    "I turn coffee ☕ into working full-stack apps 🚗"
 };
@@ -70,50 +70,11 @@ const pranav = {
 </div>
 
 <div align="center">
-
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🖥️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🗄️ Database & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-AA2929?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-### 🌐 APIs & Integrations
-
-![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-00D4FF?style=for-the-badge&logo=fastapi&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-EF4444?style=for-the-badge&logo=letsencrypt&logoColor=white)
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,linux,js,ts,python,java,react,expressjs,nodejs,mongodb,aws," height="48" style="margin: 0 10px;" alt="Programming Languages"/>
+</p>
 
 </div>
-
----
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                       GITHUB STATS                          -->
@@ -124,10 +85,6 @@ const pranav = {
 </div>
 
 <div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Labs07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&border_radius=12" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Labs07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12&langs_count=6" height="180"/> -->
 
 </div>
 
