@@ -1,4 +1,22 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    CONTRIBUTION SNAKE                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>🐍 My Contribution Snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake-dark.svg" width="90%"/>
+</picture>
+
+> ⚠️ To enable the snake animation, add a GitHub Actions workflow in your profile repo (`Pranav-Labs07/Pranav-Labs07`).  
+> See [platane/snk](https://github.com/platane/snk) for setup instructions.
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
 <!--                        HERO SECTION                         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
@@ -149,22 +167,5 @@ const pranav = {
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                       -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<h2>🐍 My Contribution Snake</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake-dark.svg" width="90%"/>
-</picture>
-
-> ⚠️ To enable the snake animation, add a GitHub Actions workflow in your profile repo (`Pranav-Labs07/Pranav-Labs07`).  
-> See [platane/snk](https://github.com/platane/snk) for setup instructions.
-
-</div>
 
 ---
