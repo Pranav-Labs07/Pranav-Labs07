@@ -10,10 +10,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake.svg" />
   <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake-dark.svg" width="90%"/>
 </picture>
-
-> ⚠️ To enable the snake animation, add a GitHub Actions workflow in your profile repo (`Pranav-Labs07/Pranav-Labs07`).  
-> See [platane/snk](https://github.com/platane/snk) for setup instructions.
-
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -29,10 +25,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Pranav+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;Building+Real-World+Web+Applications;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Pranav-Labs07?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github)](https://github.com/Pranav-Labs07)
-[![Profile Views](https://komarev.com/ghpvc/?username=Pranav-Labs07&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Pranav-Labs07)
-
 </div>
 
 ---
@@ -133,9 +125,9 @@ const pranav = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav-Labs07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&border_radius=12" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Labs07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&border_radius=12" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Labs07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12&langs_count=6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Labs07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12&langs_count=6" height="180"/> -->
 
 </div>
 
