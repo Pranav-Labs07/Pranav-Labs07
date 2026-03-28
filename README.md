@@ -1,16 +1,3 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                       -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<h2>🐍 My Contribution Snake</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake-dark.svg" width="90%"/>
-</picture>
-</div>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                        HERO SECTION                         -->
@@ -44,9 +31,8 @@ const pranav = {
   role:       "Full-Stack Developer" | "Software developer",
   location:   "India 🇮🇳",
   passion:    ["Building scalable web apps", "Clean APIs", "Real-time systems"],
-  currentFocus: "MERN Stack Development & real-time applications","Learning DevOps & AWS",
+  currentFocus: "MERN Stack Development & real-time applications","Now Learning DevOps & AWS",
   goal:       "Craft impactful software that solves real-world problems",
-  funFact:    "I turn coffee ☕ into working full-stack apps 🚗"
 };
 ```
 
@@ -96,11 +82,24 @@ const pranav = {
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Labs07&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true&border_radius=12" width="90%"/>
+</div> -->
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    CONTRIBUTION SNAKE                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>🐍 My Contribution Snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Pranav-Labs07/Pranav-Labs07/output/github-snake-dark.svg" width="90%"/>
+</picture>
 </div>
 
----
 
 <div align="center">
 <h2>🌐 Connect With Me</h2>
@@ -113,8 +112,3 @@ const pranav = {
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavdurge@gmail.com)
 
 </div>
-
----
-
-
----
