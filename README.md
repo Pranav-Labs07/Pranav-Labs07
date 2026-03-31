@@ -1,10 +1,4 @@
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Pranav%20Durge&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20the%20Future&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
@@ -16,13 +10,11 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<h2>🚀 About Me</h2>
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
 </div>
+
+---
 
 ```javascript
 const pranav = {
