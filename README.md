@@ -30,10 +30,10 @@ const pranav = {
 
 <div align="center">
 
-🎯 &nbsp;Aspiring **Software Developer** passionate about building production-grade web applications  
-💡 &nbsp;Love working with the **MERN stack** — from designing REST APIs to crafting sleek UIs  
-🌱 &nbsp;Currently leveling up in **System Design**, **Socket.IO** & **Cloud Deployment**  
-⚡ &nbsp;I build things, break things, and build them better
+ &nbsp;Aspiring **Software Developer** passionate about building production-grade web applications  
+ &nbsp;Love working with the **MERN stack** — from designing REST APIs to crafting sleek UIs  
+ &nbsp;Currently leveling up in **System Design**, **Socket.IO** & **Cloud Deployment**  
+ &nbsp;I build things, break things, and build them better
 
 </div>
 
@@ -44,7 +44,7 @@ const pranav = {
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<h2>🧠 Skills & Tech Stack</h2>
+<h2>Skills & Tech Stack</h2>
 </div>
 
 <div align="center">
@@ -94,7 +94,7 @@ const pranav = {
 
 
 <div align="center">
-<h2>🌐 Connect With Me</h2>
+<h2> Connect With Me</h2>
 </div>
 
 <div align="center">
