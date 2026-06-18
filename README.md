@@ -49,7 +49,25 @@ const pranav = {
 
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,linux,js,ts,python,java,react,expressjs,nodejs,mongodb,aws," height="48" style="margin: 0 10px;" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,expressjs,nodejs" height="48" style="margin: 0 10px;" alt="Programming Languages"/>
+</p>
+
+</div>
+
+---
+
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                              Tools                   -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>Tools</h2>
+</div>
+
+<div align="center">
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,postman,jenkins,kubernetes,aws,git,github,gitlab,terraform" height="48" style="margin: 0 10px;" alt="Programming Languages"/>
 </p>
 
 </div>
